@@ -5,7 +5,7 @@ int diagonal_diff(int arr[MAX][MAX], int n);
 
 int main()
 {
-	int arr[MAX][MAX];
+    int arr[MAX][MAX];
     int n;
     scanf("%d", &n);
 
